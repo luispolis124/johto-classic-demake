@@ -1,0 +1,21 @@
+# ROM files (Never commit copyright material)
+*.gbc
+baserom.gbc
+rom.gbc
+
+# Build outputs & temporary assembly files
+*.o
+*.sym
+*.map
+*.link
+*.patch
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
