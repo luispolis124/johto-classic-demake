@@ -1,4 +1,5 @@
 Pokémon Johto Classic
+
 A modernized Pokémon Crystal demake patch based on the pret/pokecrystal disassembly, crafted via Termux and distributed via xdelta.
 About
 Pokémon Johto Classic is a custom ROM hack project that brings a fresh retro perspective to Gen 2, built cleanly from source using modern decompilation tools. Instead of distributing copyrighted ROM files, this project uses .xdelta patches to keep development open-source and legal.
@@ -41,4 +42,3 @@ Credits & Special Thanks
  * pret team for the incredible pokecrystal disassembly project.
  * Tom Wang for the Running Shoes sprite implementation and foundational mechanics.
  * Game Freak / Nintendo for creating the original Pokémon Crystal.
- * 
