@@ -15,8 +15,8 @@ To play this hack, you will need:
 
 ## How to Apply the Patch
 
-1. Download the latest `johto_classic_vX.X.xdelta` file from the [Releases](../../releases) page.
-2. Download or locate a clean copy of the required base ROM (**Pokémon - Crystal Version (USA, Europe) (Rev 1.gbc**).
+1. Download the latest `johto_classic_vX.X.xdelta` file from the [Releases](https://github.com/luispolis124/johto-classic-demake/releases) page.
+2. Download or locate a clean copy of the required base ROM (**Pokémon - Crystal Version (USA, Europe) (Rev 1).gbc**).
 3. Open a patcher tool like Delta Patcher.
 4. Select your clean base ROM as the **Original file**.
 5. Select the downloaded `.xdelta` file as the **XDelta patch**.
@@ -31,8 +31,8 @@ If you are a developer looking to compile the source code or contribute using Te
    pkg update && pkg install git build-essential rgbds xdelta3
 
  * Clone the repository:
-   git clone [https://github.com/luispolis124/pokemon-johto-classic.git](https://github.com/luispolis124/pokemon-johto-classic.git)
-cd pokemon-johto-classic
+   git clone [https://github.com/luispolis124/johto-classic-demake.git](https://github.com/luispolis124/johto-classic-demake.git)
+cd johto-classic-demake
 
  * Place your clean baserom.gbc (Rev 1) in the root directory.
  * Compile the ROM:
@@ -44,4 +44,3 @@ cd pokemon-johto-classic
 Credits & Special Thanks
  * pret team for the incredible pokecrystal disassembly project.
  * Game Freak / Nintendo for creating the original Pokémon Crystal.
-
