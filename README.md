@@ -1,4 +1,4 @@
-Pokémon Johto Classic
+# Pokémon Johto Classic
 
 A modernized Pokémon Crystal demake patch based on the pret/pokecrystal disassembly, crafted via Termux and distributed via xdelta.
 About
